@@ -1,14 +1,14 @@
 **Alexander Farley**  
 alexander.s.farley@gmail.com  
-[asfarley.com  ](http://asfarley.com/)
+[asfarley.com  ](http://asfarley.com/)  
 [Github/asfarley](https://github.com/asfarley)
 
 ### Skills
-C, C#, ruby, MATLAB  
-Kalman filtering, visual multi-object tracking  
-Neural network design (Theano, DNN, CNN)  
-PCB layout and firmware design  
-FPGA design (Simulink, LabVIEW)  
+ * C, C#, ruby, MATLAB  
+* Kalman filtering, visual multi-object tracking  
+* Neural network design (Theano, DNN, CNN)  
+* PCB layout and firmware design  
+* FPGA design (Simulink, LabVIEW)  
 
 ### Professional Experience
 *Frobot* Aug 2016 - Current  
