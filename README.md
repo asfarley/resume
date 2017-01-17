@@ -43,6 +43,6 @@ Designed test jig circuit schematic and firmware. Laid out PCB, assembled protot
 Position: Electrical Engineering Intern  
 PCB layout for analog oscillator source board. C# Windows GUI programming, analog/digital hardware troubleshooting. Neutron chopper system diagram illustrations. BOM maintenance. Automated PCB testing.
 
-**Education**
-University of Calgary Sept 2005 - May 2010
+**Education**  
+University of Calgary Sept 2005 - May 2010  
 BSc Electrical Engineering
