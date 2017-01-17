@@ -1,6 +1,6 @@
 **Alexander Farley**  
 alexander.s.farley@gmail.com  
-asfarley.com  
+[asfarley.com  ](http://asfarley.com/)
 [Github/asfarley](https://github.com/asfarley)
 
 ### Skills
@@ -24,18 +24,15 @@ Developed closed-loop control for microfluidic sample flow. Developed Linux devi
 
 *Aversan* Jan 2012 - Jan 2015  
 Position: Embedded Systems/Test Engineer  
-DO-178B systems testing. Requirements analysis and automated test development. Root cause analysis and fix verification. Inte-
-gration lab maintenance. Some experience with Serena Dimensions configuration management. 
+DO-178B systems testing. Requirements analysis and automated test development. Root cause analysis and fix verification. Integration lab maintenance. Some experience with Serena Dimensions configuration management. 
 
 Developed automated tests for ADCs, linear actuator and temperature feedback controls, fault response and reconfiguration,
 communications protocols, memory, system configuration, signal conditioning and related components. Maintained test execution
 tooling scripts in Python.
 
 *Contract work* (elance.com/s/asfarley) Aug 2010 - Jan 2015
- * Industrial machine vision & control system development for Daqota Systems. Experience with Visual Studio 2010, Teledyne
-Dalsa computer vision libraries, soft real-time blob detection, image segmentation and classification.
- * Linear actuator PID control firmware programming (C, AVR Studio 5) & PCB layout (Eagle V5) for Precision Microdrives.
-Designed test jig circuit schematic and firmware. Laid out PCB, assembled prototype, initial PCB bring-up.
+ * Industrial machine vision & control system development for Daqota Systems. Experience with Visual Studio 2010, Teledyne Dalsa computer vision libraries, soft real-time blob detection, image segmentation and classification.
+ * Linear actuator PID control firmware programming (C, AVR Studio 5) & PCB layout (Eagle V5) for Precision Microdrives. Designed test jig circuit schematic and firmware. Laid out PCB, assembled prototype, initial PCB bring-up.
  * Developed AES-encrypted bootloader port (C, assembly, AVR Studio 5) for Dragon Link Labs
  * Developed image-based cell counting/hemocytometry script in MATLAB
  
