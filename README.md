@@ -42,4 +42,6 @@ PCB layout for analog oscillator source board. C# Windows GUI programming, analo
 
 ### Education
 University of Calgary Sept 2005 - May 2010  
-BSc Electrical Engineering
+BSc Electrical Engineering  
+
+:thumbsup:
