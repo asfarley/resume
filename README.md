@@ -3,14 +3,14 @@ alexander.s.farley@gmail.com
 asfarley.com  
 Github/asfarley  
 
-**Skills**  
+### Skills
 C, C#, ruby, MATLAB  
 Kalman filtering, visual multi-object tracking  
 Neural network design (Theano, DNN, CNN)  
 PCB layout and firmware design  
 FPGA design (Simulink, LabVIEW)  
 
-**Professional Experience**  
+### Professional Experience
 *Frobot* Aug 2016 - Current  
 Position: Developer  
 Developed vending machine system (electrical and software system architecture). Currently working with manufacturers to bring
@@ -43,6 +43,6 @@ Designed test jig circuit schematic and firmware. Laid out PCB, assembled protot
 Position: Electrical Engineering Intern  
 PCB layout for analog oscillator source board. C# Windows GUI programming, analog/digital hardware troubleshooting. Neutron chopper system diagram illustrations. BOM maintenance. Automated PCB testing.
 
-**Education**  
+### Education
 University of Calgary Sept 2005 - May 2010  
 BSc Electrical Engineering
