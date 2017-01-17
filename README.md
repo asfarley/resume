@@ -1,29 +1,29 @@
-**Alexander Farley**
-alexander.s.farley@gmail.com
-asfarley.com
-Github/asfarley
+**Alexander Farley**  
+alexander.s.farley@gmail.com  
+asfarley.com  
+Github/asfarley  
 
-**Skills**
-C, C#, ruby, MATLAB
-Kalman filtering, visual multi-object tracking
-Neural network design (Theano, DNN, CNN)
-PCB layout and firmware design
-FPGA design (Simulink, LabVIEW)
+**Skills**  
+C, C#, ruby, MATLAB  
+Kalman filtering, visual multi-object tracking  
+Neural network design (Theano, DNN, CNN)  
+PCB layout and firmware design  
+FPGA design (Simulink, LabVIEW)  
 
-**Professional Experience**
-*Frobot* Aug 2016 - Current
-Position: Developer
+**Professional Experience**  
+*Frobot* Aug 2016 - Current  
+Position: Developer  
 Developed vending machine system (electrical and software system architecture). Currently working with manufacturers to bring
 this product to market.
 
-*Prolucid Technologies* Jan 2015 - Jul 2016
-Position: System Integrator
+*Prolucid Technologies* Jan 2015 - Jul 2016  
+Position: System Integrator  
 Developed FPGA components in LabVIEW for ultrasonic/electromagnetic non-destructive examination (NDE) equipment. Implemented sensory input and signal conditioning routines. Provided on-site debugging support for system testing. Developed closed-loop motor controls, sensor calibration procedures and other subsystems. 
 
 Developed closed-loop control for microfluidic sample flow. Developed Linux device driver for linear actuator control. Diagnosed and fixed issues in multiple-object tracking system. Improved system stability by implementing corrections for nonlinear regions in system model. Developed tooling to aid in system diagnostics (live GigE video sniffing application).
 
-*Aversan* Jan 2012 - Jan 2015
-Position: Embedded Systems/Test Engineer
+*Aversan* Jan 2012 - Jan 2015  
+Position: Embedded Systems/Test Engineer  
 DO-178B systems testing. Requirements analysis and automated test development. Root cause analysis and fix verification. Inte-
 gration lab maintenance. Some experience with Serena Dimensions configuration management. 
 
@@ -39,8 +39,8 @@ Designed test jig circuit schematic and firmware. Laid out PCB, assembled protot
  * Developed AES-encrypted bootloader port (C, assembly, AVR Studio 5) for Dragon Link Labs
  * Developed image-based cell counting/hemocytometry script in MATLAB
  
-*SKF Magnetic Bearings* May 2008 - Sept 2009
-Position: Electrical Engineering Intern
+*SKF Magnetic Bearings* May 2008 - Sept 2009  
+Position: Electrical Engineering Intern  
 PCB layout for analog oscillator source board. C# Windows GUI programming, analog/digital hardware troubleshooting. Neutron chopper system diagram illustrations. BOM maintenance. Automated PCB testing.
 
 **Education**
