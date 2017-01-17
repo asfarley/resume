@@ -1,7 +1,7 @@
 **Alexander Farley**  
 alexander.s.farley@gmail.com  
 asfarley.com  
-Github/asfarley  
+[Github/asfarley](https://github.com/asfarley)
 
 ### Skills
 C, C#, ruby, MATLAB  
