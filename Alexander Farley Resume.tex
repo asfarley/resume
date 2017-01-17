@@ -2,71 +2,65 @@
 \documentclass{article}
 
 \usepackage{hyperref} %For website link
-\usepackage[margin=.8cm]{geometry} %Shrink the margins
+\usepackage[margin=2.0cm]{geometry} %Shrink the margins
 \usepackage{multicol} %Add 2 columns
+\usepackage{color}
 
 \setlength{\parindent}{0in} %Remove initial indent in paragraphs
 
 \begin{document}
 \thispagestyle{empty}
+\sffamily 
 
 \hspace*{1 in} \large \textbf{Alexander Farley} \normalsize \\
 \hspace*{1 in} alexander.s.farley@gmail.com \\
-\hspace*{1 in} \href{http://asfarley.com}{asfarley.com} 
+\hspace*{1 in} \href{http://asfarley.com}{asfarley.com} \\
+\hspace*{1 in} \color{blue} \href{https://github.com/asfarley}{Github/asfarley} \color{black} 
 
 \section*{\large Skills \normalsize}
 \begin{multicols}{2}
-C, C\#, Visual Studio \\
-MATLAB, Kalman filtering, object tracking \\
-e-payment (Authorize.net, Stripe) \\
-HTML, CSS, Javascript \\
-MVC, Ruby on Rails, SQL \\
-Microcontrollers (AVR ATMega, XMega, STM32) \\
-FPGA design (MATLAB Simulink, LabVIEW) \\
-RS232, USB, I2C, SPI \\
-PCB design and layout (Eagle)\\
-PID motor control\\
-Hardware and software debugging\\
-Git/\href{https://github.com/asfarley}{Github}
+C, C\#, ruby, MATLAB \\
+Kalman filtering, visual multi-object tracking \\ 
+Neural network design (Theano, DNN, CNN) \\
+PCB layout and firmware design \\
+FPGA design (Simulink, LabVIEW) \\
 \end{multicols}
 
 \section*{\large Professional Experience \normalsize}
 
-Frobot \hrulefill Aug 2016 - Current \\
+\textbf{Frobot} \hrulefill Aug 2016 - Current \\
 \small Position: Developer \\
-Designed and developed vending machine system (electronics and software). Currently working to bring this product to market with manufacturers and supply-chain experts in Shenzhen, China. \normalsize \\
+Developed vending machine system (electrical and software system architecture). Currently working with manufacturers to bring this product to market. 
+\normalsize \\
 
-Prolucid Technologies \hrulefill Jan 2015 - Jul 2016 \\
+\textbf{Prolucid Technologies} \hrulefill Jan 2015 - Jul 2016 \\
 \small Position: System Integrator \\
-Developed FPGA-based components in LabVIEW for ultrasonic/electromagnetic non-destructive examination (NDE) equipment. Implemented various sensory input and signal conditioning routines. Provided on-site debugging support for system testing.  Developed closed-loop motor controls, sensor calibration procedures and other subsystems. \\
+Developed FPGA components in LabVIEW for ultrasonic/electromagnetic non-destructive examination (NDE) equipment. Implemented sensory input and signal conditioning routines. Provided on-site debugging support for system testing.  Developed closed-loop motor controls, sensor calibration procedures and other subsystems. \\
 
-Designed and developed closed-loop control for microfluidic sample flow. Developed Linux device driver for linear actuator control. Diagnosed and fixed issues in multiple-object tracking system (Hungarian algorithm). Improved system stability by implementing corrections for nonlinear feedback regions in system model. Developed accessory tooling to aid in system diagnostics (live GigE video stream sniffing application). \normalsize  \\ 
+Developed closed-loop control for microfluidic sample flow. Developed Linux device driver for linear actuator control. Diagnosed and fixed issues in multiple-object tracking system. Improved system stability by implementing corrections for nonlinear regions in system model. Developed tooling to aid in system diagnostics (live GigE video sniffing application). \normalsize  \\ 
 
-Aversan \hrulefill Jan 2012 - Jan 2015 \\
+\textbf{Aversan} \hrulefill Jan 2012 - Jan 2015 \\
 \small Position: Embedded Systems/Test Engineer \\
 DO-178B systems testing. Requirements analysis and automated test development. Root cause analysis and fix verification. Integration lab maintenance. Some experience with Serena Dimensions configuration management. \\
 
 Developed automated tests for ADCs, linear actuator and temperature feedback controls, fault response and reconfiguration, communications protocols, memory, system configuration, signal conditioning and related components. Maintained test execution tooling scripts in Python. \normalsize  \\
 
-Contract work (\href{https://www.elance.com/s/asfarley/}{elance.com}) \hrulefill Aug 2010 - Current 
+\textbf{Contract work} (\href{https://www.elance.com/s/asfarley/}{elance.com/s/asfarley}) \hrulefill Aug 2010 - Jan 2015 
 \small 
 \begin{itemize}
-	\item Industrial machine vision \& control system development and troubleshooting for Daqota Systems. Experience with Visual Studio 2010, Teledyne Dalsa computer vision libraries, soft real-time blob detection, image segmentation and classification. 
-	\item Linear actuator PID control firmware programming (C, AVR Studio 5) \& PCB layout (Eagle V5) for Precision Microdrives. Designed test jig circuit schematic and firmware. Laid out PCB, assembled prototype, and initial PCB bring-up.
-	\item Programmed multi-joint robotic actuator PID control firmware in C. Developed Windows desktop tool for editing, recording and replaying movement waveforms using C\# and Windows Forms. Hall angle sensor selection, pose estimation firmware, PC/device communication, real-time desktop pose display programming. 
+	\item Industrial machine vision \& control system development for Daqota Systems. Experience with Visual Studio 2010, Teledyne Dalsa computer vision libraries, soft real-time blob detection, image segmentation and classification. 
+	\item Linear actuator PID control firmware programming (C, AVR Studio 5) \& PCB layout (Eagle V5) for Precision Microdrives. Designed test jig circuit schematic and firmware. Laid out PCB, assembled prototype, initial PCB bring-up.
 	\item Developed AES-encrypted bootloader port (C, assembly, AVR Studio 5) for Dragon Link Labs
-	\item Developed image-based cell counting/hemocytometry script in MATLAB
-	\item Kiosk system development (vending automation) for \href{http://www.frobot.net}{Frobot Inc}. Designed linear actuator and weight-based feedback controls. Designed high-level system architecture including payment processing, user-interface and physical IO. Developed and tested prototype device. Currently working on bringing device to market.\\
+	\item Developed image-based cell counting/hemocytometry script in MATLAB \\
 \end{itemize}
 \normalsize 
 
-SKF Magnetic Bearings \hrulefill May 2008 - Sept 2009 \\
+\textbf{SKF Magnetic Bearings} \hrulefill May 2008 - Sept 2009 \\
 \small Position: Electrical Engineering Intern \\
-PCB layout for analog oscillator source board. C\# Windows GUI programming, analog/digital hardware troubleshooting. Engineering change orders. Neutron chopper system diagrams. BOM maintenance. Automated PCB testing. \normalsize \\
+PCB layout for analog oscillator source board. C\# Windows GUI programming, analog/digital hardware troubleshooting. Neutron chopper system diagram illustrations. BOM maintenance. Automated PCB testing. \normalsize \\
 
 \section*{\large Education \normalsize}
 \normalsize University of Calgary \hrulefill Sept 2005 - May 2010  \\
 \small BSc Electrical Engineering \\
-Selected courses: Control Systems, Biomedical Signal Analysis, Computational Arithmetic and Complexity, Adaptive Signal Processing
 
 \end{document}
